@@ -20,18 +20,19 @@ The main functionality of the application is to create lists of tasks. A user ca
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/IrynaBalandiukh/ToDo-react_application.git
+`git clone https://github.com/IrynaBalandiukh/ToDo-react_application.git`
 
 2. Install dependencies:
-cd ToDo-react_application
-npm install
+`cd ToDo-react_application`
+`npm install`
 
 3. Run the development server:
-npm start
+`npm start`
 
 ## Demo
 Check out the live demo of the ToDo App [here](https://irynabalandiukh.github.io/ToDo-react_application/).
 
 ## Screenshots
-![Screenshot 1](https://prnt.sc/NVqm10kWdDW6)
-![Screenshot 2](https://prnt.sc/Sy5HcqqGd9OI)
+![Screenshot 1](./screenshots/Screenshot-1.png)
+![Screenshot 2](./screenshots/Screenshot-2.png)
+
